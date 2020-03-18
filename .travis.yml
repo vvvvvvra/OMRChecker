@@ -9,7 +9,7 @@ compiler:
   - gcc
 
 jdk:
-  - oraclejdk7
+  - oraclejdk8
 
 before_install:
   - sudo apt-get update
